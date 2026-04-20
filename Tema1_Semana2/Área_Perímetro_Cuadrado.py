@@ -1,0 +1,10 @@
+h = int(input("Ingrese la altura del rectángulo: "))
+b = int(input("Ingrese la base del rectángulo: "))
+
+print("--------------------------------")
+print("-----------Resultados-----------")
+print("--------------------------------")
+print(f"El área del rectángulo es: {b*h}")
+print(f"El perímetro del rectángulo es: {2*(b+h)}")
+print("--------------------------------")
+print("--------------------------------")
