@@ -1,6 +1,4 @@
-#realizar un algoritmo que permita arrojar con funciones 
-#la suma resta multiplicación residuo y el factorial de 
-#los 2 números ingresado en consola
+#realizar un algoritmo que permita arrojar con funciones la suma resta multiplicación residuo y el factorial de los 2 números ingresado en consola
 #suma = a+b
 #resta = a-b
 #multiplicación = a*b
